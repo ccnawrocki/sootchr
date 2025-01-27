@@ -1,2 +1,2 @@
 # sootchr
-Survey of operations for spatial transcriptomics characterization and analysis
+Spatial Omics Operations for Trancriptional CHaracterization and Regression
