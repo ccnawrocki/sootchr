@@ -41,7 +41,6 @@
 # Only a couple pngs.
 *.pdf
 *.html
-*.png
 *.jpg
 *.jpeg
 # *.png
